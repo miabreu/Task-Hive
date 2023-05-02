@@ -43,11 +43,14 @@ Bonus:
 
 ### Screenshot
 
-![Screenshot]()
+<img width="1552" alt="Screen Shot 2023-05-02 at 6 26 12 PM" src="https://user-images.githubusercontent.com/42332056/235798876-5670b11a-0e20-4572-97c6-2522ff3bfa46.png">
+
+<img width="1552" alt="Screen Shot 2023-05-02 at 6 26 30 PM" src="https://user-images.githubusercontent.com/42332056/235798907-f6118514-921a-42e6-9bc7-2dc590c7b3df.png">
+
 
 ### Links
 
-- Live Site URL: [link]()
+- Live Site URL: [Live Website](https://task-hiveapp.netlify.app)
 
 ### Built with
 
